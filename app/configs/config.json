@@ -1,0 +1,23 @@
+{
+  "api_settings": {
+    "throttle": {
+      "rate_limit_requests": 8,
+      "rate_limit_per_second": 1
+    },
+    "validation": {
+      "required": "validation.required",
+      "email": "validation.email",
+      "password_confirmation:same": "register.password.same",
+      "password:min": "register.password.min"
+    },
+    "slug": {
+      "trim": true
+    },
+    "password": {
+      "algorithm": "PASSWORD_ARGON2ID",
+      "memory_cost": 8,
+      "time_cost": 1,
+      "threads": 1
+    }
+  }
+}

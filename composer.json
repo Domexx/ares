@@ -1,0 +1,41 @@
+{
+    "name": "domexx/ares",
+    "description": "Fast and convenient skeleton to build your beautiful api",
+    "keywords": [
+        "php8",
+        "api",
+        "slim",
+        "backend",
+        "fast",
+        "clean"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dome",
+            "homepage": "https://ares.to"
+        },
+        {
+            "name": "s1njar",
+            "homepage": "https://ares.to"
+        }
+    ],
+    "require": {
+        "ext-sockets": "*",
+        "ext-json": "*",
+        "domexx/ares-core": "3.1.0"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Ares\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

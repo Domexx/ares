@@ -1,0 +1,16 @@
+/vendor/
+/.idea
+/logs/*
+!/logs/README.md
+/coverage/
+*.php_cs.cache
+/nbproject/
+/build/
+/cache/
+.DS_Store
+/.scannerwork/
+/.phpunit.result.cache
+/tmp/Logs
+/tmp/Cache
+/tmp
+/.env
