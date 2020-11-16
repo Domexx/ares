@@ -2,7 +2,7 @@
 ######based on Slim 4.5
 ####Custom base project for creating api's
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Domexx/aresd/blob/master/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/domexx/ares/badge/master)](https://www.codefactor.io/repository/github/domexx/ares/overview/master) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Domexx/aresd/blob/master/LICENSE) 
 ==========================
 
 ## Introduction
