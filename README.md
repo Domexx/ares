@@ -1,6 +1,4 @@
-#Ares
-######based on Slim 4.5
-####Custom base project for creating api's
+## Ares
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Domexx/aresd/blob/master/LICENSE)
 ==========================
