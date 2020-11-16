@@ -1,6 +1,4 @@
-#Ares
-######based on Slim 4.5
-####Custom base project for creating api's
+## Ares
 
 [![CodeFactor](https://www.codefactor.io/repository/github/domexx/ares/badge/master)](https://www.codefactor.io/repository/github/domexx/ares/overview/master) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Domexx/aresd/blob/master/LICENSE) 
 ==========================
@@ -9,7 +7,7 @@
 This project is based on the micro framework slim.
 It can be used for creating and expanding fast apis.
 
-###Base Features:
+## Base Features:
 - Responses
 - Exceptions
 - Validation
